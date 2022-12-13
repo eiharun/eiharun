@@ -2,7 +2,7 @@
 
 ## Writeups, Personal Projects, & More
 
-##### Website: eiharun.github.io
+##### Website: [eiharun.github.io](eiharun.github.io)
 
 <!---
 eiharun/eiharun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
